@@ -1,0 +1,27 @@
+.container {
+  max-width: 1200px;
+  padding: 0 1.4rem;
+  margin: auto; }
+
+body {
+  background-color: red; }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body {
+  background-color: #fff;
+  font-family: 'Prompt', sans-serif;
+  line-height: 1.5; }
+
+a {
+  text-decoration: none;
+  color: #333; }
+
+ul {
+  list-style: none; }
+
+img {
+  width: 100%; }
